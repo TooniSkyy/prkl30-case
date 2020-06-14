@@ -25,3 +25,7 @@ Case design files for the PRKL30 keyboard. 3D_print folder includes files for 3D
 ### prkl30 ble sandwich
 * This case design is used for Adafruit Feather 32u4 Bluefruit builds with extra space for controller and lipo battery.
 
+## ON TODO LIST
+* 3D case for ble feather
+* 3D case for choc switches
+* 3D case for apls whitches
